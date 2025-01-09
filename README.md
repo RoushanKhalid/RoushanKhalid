@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
   </a>
   <a href="https://www.codechef.com/users/roushan_khalid" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png" alt="CodeChef" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" />
   </a>
   <a href="https://codeforces.com/profile/khalid_17" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" />
@@ -58,7 +58,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" />
@@ -75,4 +75,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roushankhalid&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
