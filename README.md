@@ -1,7 +1,7 @@
-<h1 align="center">This is Sk. Roushan Khalid</h1>
+<h1 align="center">Sk. Roushan Khalid</h1>
 <h3 align="center">
-  Final-year Software Engineering student at Daffodil International University,<br>
-  exploring the intersection of code and data.<br>
+  A Final-year Software Engineering student at Daffodil International University.<br>
+  Exploring the intersection of code and data.<br>
   Passionate about Data Science and crafting efficient software solutions.
 </h3>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>Currently, I'm learning <b>Artificial Intelligence fundamentals</b>, <b>Machine Learning principles</b>, <b>Data Science basics</b>, and relevant skills like <b>data analysis</b>, <b>model development</b>, and <b>problem-solving</b>.</li>
+  <li>Currently, I'm learning <b>Artificial Intelligence fundamentals</b>, <b>Machine Learning principles</b>, <b>Data Science basics</b>, and relevant skills like <b>Data Analysis</b>, <b>Model Development</b>, and <b>Problem-Solving</b>.</li>
   <li>Seeking guidance and collaboration on <b>AI and ML-based Research and Projects.</b></li>
   <li>Reach me at: <b>skroushankhalid.17@gmail.com</b></li>
   <li>Fun fact: <b>I think I'm funny.</b></li>
@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
   </a>
   <a href="https://www.codechef.com/users/roushan_khalid" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png" alt="CodeChef" height="40" />
   </a>
   <a href="https://codeforces.com/profile/khalid_17" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" />
@@ -75,6 +75,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roushankhalid&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushankhalid&theme=radical" alt="GitHub Streak Stats" />
-</p>
+
