@@ -1,8 +1,8 @@
 <h1 align="center">Sk. Roushan Khalid</h1>
 <h3 align="center">
-  A Final-year Software Engineering student at Daffodil International University.<br>
-  Exploring the intersection of code and data.<br>
-  Passionate about Data Science and crafting efficient software solutions.
+  A Final-year Software Engineering Student at Daffodil International University.<br>
+  Exploring the Intersection of Code and Data.<br>
+  Passionate about Data Science and Crafting Efficient Software Solutions.
 </h3>
 
 <p align="center">
