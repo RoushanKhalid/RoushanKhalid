@@ -17,12 +17,12 @@
 
 ---
 
-<h3 align="left">🌟 About Me:</h3>
+<h3 align="left">About Me:</h3>
 <ul>
-  <li>🌱 I’m currently learning <b>Artificial Intelligence fundamentals</b>, <b>Machine Learning principles</b>, <b>Data Science basics</b>, and relevant skills like <b>data analysis</b>, <b>model development</b>, and <b>problem-solving</b>.</li>
-  <li>👯 I am seeking guidance and collaboration on <b>AI and ML-based Research and Projects.</b></li>
-  <li>📫 Reach me at: <b>skroushankhalid.17@gmail.com</b></li>
-  <li>⚡ Fun fact: <b>I think I'm funny.</b></li>
+  <li>Currently, I'm learning <b>Artificial Intelligence fundamentals</b>, <b>Machine Learning principles</b>, <b>Data Science basics</b>, and relevant skills like <b>data analysis</b>, <b>model development</b>, and <b>problem-solving</b>.</li>
+  <li>Seeking guidance and collaboration on <b>AI and ML-based Research and Projects.</b></li>
+  <li>Reach me at: <b>skroushankhalid.17@gmail.com</b></li>
+  <li>Fun fact: <b>I think I'm funny.</b></li>
 </ul>
 
 ---
