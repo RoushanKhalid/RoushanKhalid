@@ -1,8 +1,7 @@
 <h1 align="center">Sk. Roushan Khalid</h1>
 <h3 align="center">
- Final-year Software Engineering Student at Daffodil International University.<br>
- Exploring the Intersection of Code and Data.<br>
- Passionate about Data Science and Crafting Efficient Software Solutions.
+  AI Engineering Enthusiast | NLP Researcher<br>
+  Final-year Software Engineering Student @ Daffodil International University
 </h3>
 
 <p align="center">
@@ -11,84 +10,80 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roushankhalid&theme=radical&margin-w=15&margin-h=15&row=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=roushankhalid&theme=radical&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">About Me:</h3>
-<ul>
-  <li>Currently, I'm learning <b>Artificial Intelligence Fundamentals</b>, <b>Machine Learning Principles</b>, <b>Data Science Basics</b>, and relevant skills like <b>Data Analysis</b>, <b>Model Development</b>, and <b>Problem-Solving</b>.</li>
-  <li>Seeking guidance and collaboration on <b>AI and ML-based Research and Projects.</b></li>
-  <li>Reach me at: <b>skroushankhalid.17@gmail.com</b></li>
-  <li>Fun fact: <b>I think I'm funny.</b></li>
-</ul>
+## 🔥 Current Focus
+
+- 🧠 Deepening expertise in **AI Engineering** and **Natural Language Processing**
+- 🤖 Building ML models with **intermediate-level proficiency** in model development
+- 🔍 Seeking **AI/NLP internship opportunities** and **research collaborations**
+- 📚 Continuously learning advanced ML concepts and deployment techniques
 
 ---
 
-<h3 align="left">🔗 Connect with Me:</h3>
+## 🛠️ Technical Stack
+
+### 🤖 AI/ML Specialization
 <p align="center">
- <a href="https://fb.com/skroushankhalid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" />
-  </a>
- <a href="https://instagram.com/sk_roushan_khalid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
-  </a>
-  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### 💻 Core Programming
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### 📊 Data Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-005571?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roushankhalid&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roushankhalid&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🌟 Let's Connect
+<p align="center">
   <a href="https://linkedin.com/in/sk-roushan-khalid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://twitter.com/roushan_khalid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/roushankhalid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/khalid_17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" />
+  <a href="mailto:skroushankhalid.17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/roushan_khalid" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" />
+  <a href="https://twitter.com/roushan_khalid" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  
-  <!-- Web Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-  
-  <!-- ML/AI Tools -->
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" />
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40" />
-  
-  <!-- Other Tools -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-</p>
+## 📬 Collaboration Interests
+- 🚀 Open to **AI/NLP project collaborations**
+- 💼 Seeking **AI Engineering internships**
+- 📝 Interested in **research paper collaborations**
+- 🤝 Let's discuss **innovative ML solutions**
 
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roushankhalid&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+📧 **Reach me:** skroushankhalid.17@gmail.com
