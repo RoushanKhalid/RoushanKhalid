@@ -18,8 +18,8 @@
 
 ## 🔥 Current Focus
 
-- 🧠 Deepening expertise in **AI Engineering** and **Natural Language Processing**
-- 🤖 Building ML models with **intermediate-level proficiency** in model development
+- 🧠 Deepening expertise in **AI Engineering**, **Natural Language Processing** and **Large Language Models**
+- 🤖 Building ML models with **advanced-level proficiency** in model development
 - 🔍 Seeking **AI/NLP internship opportunities** and **research collaborations**
 - 📚 Continuously learning advanced ML concepts and deployment techniques
 
