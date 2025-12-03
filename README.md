@@ -1,6 +1,6 @@
 <h1 align="center">Sk. Roushan Khalid</h1>
 <h3 align="center">
-  AI Engineering Enthusiast | NLP Researcher<br>
+  AI Engineer @ Kamal-Paterson Ltd, Dhaka, Bangladesh<br>
   Final-year Software Engineering Student @ Daffodil International University
 </h3>
 
@@ -19,9 +19,9 @@
 ## 🔥 Current Focus
 
 - 🧠 Deepening expertise in **AI Engineering**, **Natural Language Processing** and **Large Language Models**
-- 🤖 Building ML models with **advanced-level proficiency** in model development
-- 🔍 Seeking **AI/NLP internship opportunities** and **research collaborations**
-- 📚 Continuously learning advanced ML concepts and deployment techniques
+- 🤖 Building AI models with **advanced-level proficiency** in model development
+- 🔍 Seeking **AI/NLP PhD opportunities** and **research collaborations**
+- 📚 Continuously learning advanced AI concepts and deployment techniques
 
 ---
 
@@ -50,14 +50,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-005571?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roushankhalid&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roushankhalid&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
