@@ -4,7 +4,7 @@
   Final-year Software Engineering Student @ Daffodil International University
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roushankhalid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -12,7 +12,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=roushankhalid&theme=radical&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -74,8 +74,8 @@
 
 ## 📬 Collaboration Interests
 - 🚀 Open to **AI/NLP project collaborations**
-- 💼 Seeking **AI Engineering internships**
+- 💼 Seeking **AI PhD Opportunities**
 - 📝 Interested in **research paper collaborations**
-- 🤝 Let's discuss **innovative ML solutions**
+- 🤝 Let's discuss **innovative AI/ML solutions**
 
 📧 **Reach me:** skroushankhalid.17@gmail.com
