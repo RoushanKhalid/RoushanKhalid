@@ -74,7 +74,7 @@
 
 ## 📬 Collaboration Interests
 - 🚀 Open to **AI/NLP project collaborations**
-- 💼 Seeking **AI PhD Opportunities**
+- 💼 Seeking **PhD Opportunities**
 - 📝 Interested in **research paper collaborations**
 - 🤝 Let's discuss **innovative AI/ML solutions**
 
