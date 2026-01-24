@@ -29,8 +29,7 @@
 
 ## 💼 Professional Journey
 
-**AI Engineer** – Kamal-Paterson Ltd, Dhaka, Bangladesh  
-*Dec 2025 – Present*  
+**AI Engineer** – Kamal-Paterson Ltd, Dhaka, Bangladesh ***[Dec 2025 – Present]***
 - Developed and deployed **NLP and AI solutions** integrated into applications  
 - Built AI integrations for **Krishok AI**, an Android app delivering real-time, AI-driven responses  
 - Led initiatives in **model evaluation, optimization, and deployment**   
