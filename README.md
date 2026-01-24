@@ -31,9 +31,8 @@
 
 **AI Engineer** – Kamal-Paterson Ltd, Dhaka, Bangladesh  
 *Dec 2025 – Present*  
-- Developed and deployed **NLP and AI solutions** integrated into enterprise applications  
-- Optimized ML pipelines for **scalability, efficiency, and reliability**  
-- Collaborated with cross-functional teams to **implement production-ready AI models**  
+- Developed and deployed **NLP and AI solutions** integrated into applications  
+- Built AI integrations for **Krishok AI**, an Android app delivering real-time, AI-driven responses  
 - Led initiatives in **model evaluation, optimization, and deployment**   
 
 ---
