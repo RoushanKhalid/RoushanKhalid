@@ -34,5 +34,5 @@ I am an AI Engineer focused on building smart AI solutions that leverage the rap
 ### 🚀 Key Technical Repositories
 
 * **[ResumeRAG](https://github.com/RoushanKhalid/ResumeRAG)**: Enterprise-grade RAG pipeline using semantic retrieval for parsing and querying unstructured document data.
-* **[Question-Answering](https://github.com/RoushanKhalid/Question-Answering)**: Intent-aware semantic QA system built with BERT for production-level knowledge extraction.
+* **[Question-Answering-System](https://github.com/RoushanKhalid/Question-Answering)**: Intent-aware semantic QA system built with BERT for production-level knowledge extraction.
 * **[Smart-Campaigner](https://github.com/RoushanKhalid/Smart-Campaigner)**: Behavioral analytics engine utilizing algorithmic customer segmentation to drive targeted engagement.
