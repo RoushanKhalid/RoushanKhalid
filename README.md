@@ -1,62 +1,47 @@
 <h1 align="center">Sk. Roushan Khalid</h1>
-<h3 align="center">
-  AI Engineer @ Kamal-Paterson Ltd, Dhaka, Bangladesh
-</h3>
-
----
-
-## 🔥 Current Focus
-
-- 🧠 Advancing expertise in **AI Engineering, NLP, and Large Language Models**  
-- 🤖 Developing **scalable AI/ML models** with production-level performance  
-- 🚀 Exploring **AI/NLP collaborations and cutting-edge projects**  
-- 📚 Continuously mastering **advanced AI concepts and deployment techniques**
-
----
-
-## 🤖 AI/ML Specialization
+<p align="center">
+  <b>AI Engineer (R&D) @ Kamal-Paterson Ltd</b><br>
+  <i>Multi-Domain AI Systems Architect</i>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <a href="https://linkedin.com/in/sk-roushan-khalid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:skroushankhalid.17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/roushan_khalid" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💼 Professional Journey
+### 🌐 Intelligence Domains
 
-**AI Engineer** – Kamal-Paterson Ltd, Dhaka, Bangladesh ***[Dec 2025 – Present]***
-- Developed and deployed **NLP and AI solutions** integrated into applications  
-- Built AI integrations for **Krishok AI**, an Android app delivering real-time, AI-driven responses  
-- Led initiatives in **model evaluation, optimization, and deployment**   
-
----
-
-## 🌟 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/sk-roushan-khalid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/roushankhalid" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:skroushankhalid.17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/roushan_khalid" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+| **Cognitive AI** | **Perceptual AI** | **Operational AI** |
+| :--- | :--- | :--- |
+| Agentic Workflows (LangGraph/CrewAI) | Neural Vision (ViT/CNN) | Distributed Inference (Edge/Mobile) |
+| Production RAG (LCEL/LangChain) | Feature Extraction & Segmentation | Neural Middleware (FastAPI/Flask) |
+| Semantic Synthesis & NLP | Spatial Intelligence | Lifecycle Governance (MLflow/Docker) |
 
 ---
 
-## 📬 Collaboration & Interests
-- 🤝 Open to **AI/NLP project collaborations**  
-- 💼 Exploring **advanced AI research and industry projects**  
-- 📝 Interested in **innovative AI/ML solutions**  
+### 🛠️ Technical Ecosystem
 
-📧 **Reach me:** skroushankhalid.17@gmail.com
+* **Reasoning Frameworks:** LangChain (LCEL), LangGraph, CrewAI, HuggingFace, LlamaIndex
+* **Vector Engineering:** Pinecone, ChromaDB, Milvus, Vector Similarity Search
+* **Core Deep Learning:** PyTorch, TensorFlow, Keras, OpenCV, Mediapipe
+* **Infrastructure & Data:** FastAPI, Flask, SQL (Postgres, MySQL), Docker, MLflow, Git
+
+---
+
+### 💼 Professional Experience
+
+**AI Engineer (R&D)** | Kamal-Paterson Ltd, Dhaka _(2025 – Present)_
+* **Enterprise R&D:** Architecting production-ready AI cores from conceptualization to deployment.
+* **Cross-Domain Delivery:** Integrated complex neural models into Mobile, Web, and Edge ecosystems.
+* **Performance Engineering:** Implementing model quantization and performance auditing for resource-constrained environments.
+
+---
+
+### 🚀 Key Technical Repositories
+
+* **ResumeRAG:** Enterprise-grade RAG pipeline using semantic retrieval for unstructured data.
+* **Question-Answering:** Intent-aware system built with BERT for production-level semantic QA.
+* **Smart-Campaigner:** Behavioral analytics engine utilizing algorithmic customer segmentation.
