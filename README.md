@@ -12,36 +12,27 @@
 
 ---
 
-### 🌐 Intelligence Domains
+I am an AI Engineer focused on building smart AI solutions that leverage the rapid advancements of the modern AI era. My architectural focus spans cognitive agents, computer vision, and robust neural middleware designed to solve complex enterprise challenges.
 
-| **Cognitive AI** | **Perceptual AI** | **Operational AI** |
-| :--- | :--- | :--- |
-| Agentic Workflows (LangGraph/CrewAI) | Neural Vision (ViT/CNN) | Distributed Inference (Edge/Mobile) |
-| Production RAG (LCEL/LangChain) | Feature Extraction & Segmentation | Neural Middleware (FastAPI/Flask) |
-| Semantic Synthesis & NLP | Spatial Intelligence | Lifecycle Governance (MLflow/Docker) |
+### 🛠️ Core Capabilities & Tech Stack
 
----
-
-### 🛠️ Technical Ecosystem
-
-* **Reasoning Frameworks:** LangChain (LCEL), LangGraph, CrewAI, HuggingFace, LlamaIndex
+* **Cognitive AI & Agents:** LangChain, LangGraph, CrewAI, LlamaIndex, LLM Orchestration
+* **Deep Learning & Vision:** PyTorch, TensorFlow, OpenCV, ViT, CNNs, Spatial Intelligence
 * **Vector Engineering:** Pinecone, ChromaDB, Milvus, Vector Similarity Search
-* **Core Deep Learning:** PyTorch, TensorFlow, Keras, OpenCV, Mediapipe
-* **Infrastructure & Data:** FastAPI, Flask, SQL (Postgres, MySQL), Docker, MLflow, Git
+* **MLOps & Infrastructure:** FastAPI, MLflow, Docker, SQL, Edge/Mobile Inference
 
 ---
 
 ### 💼 Professional Experience
 
-**AI Engineer (R&D)** | Kamal-Paterson Ltd, Dhaka _(2025 – Present)_
-* **Enterprise R&D:** Architecting production-ready AI cores from conceptualization to deployment.
-* **Cross-Domain Delivery:** Integrated complex neural models into Mobile, Web, and Edge ecosystems.
-* **Performance Engineering:** Implementing model quantization and performance auditing for resource-constrained environments.
+**AI Engineer (R&D)** | Kamal-Paterson Ltd, Dhaka _(Dec 2025 – Present)_
+* **Enterprise AI Architecture:** Designing and deploying production-ready AI cores, ensuring high availability across Mobile, Web, and Edge ecosystems.
+* **Performance Engineering:** Implementing model quantization and performance auditing to optimize inference latency and memory footprint in resource-constrained environments.
 
 ---
 
 ### 🚀 Key Technical Repositories
 
-* **ResumeRAG:** Enterprise-grade RAG pipeline using semantic retrieval for unstructured data.
-* **Question-Answering:** Intent-aware system built with BERT for production-level semantic QA.
-* **Smart-Campaigner:** Behavioral analytics engine utilizing algorithmic customer segmentation.
+* **[ResumeRAG](https://github.com/RoushanKhalid/ResumeRAG)**: Enterprise-grade RAG pipeline using semantic retrieval for parsing and querying unstructured document data.
+* **[Question-Answering](https://github.com/RoushanKhalid/Question-Answering)**: Intent-aware semantic QA system built with BERT for production-level knowledge extraction.
+* **[Smart-Campaigner](https://github.com/RoushanKhalid/Smart-Campaigner)**: Behavioral analytics engine utilizing algorithmic customer segmentation to drive targeted engagement.
