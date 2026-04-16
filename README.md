@@ -38,7 +38,7 @@ Focused on turning ideas and models into **working systems**, while continuously
 
 ## Experience
 
-**AI Engineer (R&D)**  
+**AI Engineer**  
 Kamal-Paterson Ltd, Dhaka  
 *Dec 2025 – Present*
 
