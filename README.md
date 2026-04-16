@@ -1,8 +1,8 @@
 <h1 align="center">Sk. Roushan Khalid</h1>
 
 <p align="center">
-  <b>AI/ML Engineer • AI Systems Architect</b><br>
-  Designing scalable, production-grade intelligent systems
+  <b>AI/ML Engineer</b><br>
+  LLM Applications • Backend for AI • Practical System Building
 </p>
 
 <p align="center">
@@ -17,60 +17,52 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
-</p>
-
 ---
 
 ## About
 
-AI/ML Engineer focused on building reliable, scalable, and production-ready AI systems.  
-My work sits at the intersection of machine learning, intelligent systems, and backend engineering, with a strong emphasis on real-world deployment.
+AI/ML Engineer working on building **real-world applications using machine learning and LLMs**.
 
-I design systems that go beyond experimentation — turning AI into practical, usable products that operate under real constraints like scale, latency, and reliability.
-
-My approach is grounded in system thinking, applied problem-solving, and clean architecture, enabling the transition from research ideas to production systems.
+Focused on turning ideas and models into **working systems**, while continuously learning how to handle **deployment, performance, and real-world constraints**.
 
 ---
 
-## Areas of Work
+## Work
 
-- End-to-end AI system design and deployment  
-- Intelligent automation using LLMs and contextual reasoning  
-- Applied machine learning for real-world decision systems  
-- Backend architecture for AI-driven applications  
-- Integration of AI into full-stack products  
+- Building **LLM-based applications and workflows**  
+- Applying machine learning to **practical problems**  
+- Developing **backend systems that support AI applications**  
+- Exploring how systems move from **prototype → real usage**  
 
 ---
 
 ## Experience
 
-### AI Engineer (R&D)  
-**Kamal-Paterson Ltd, Dhaka**  
+**AI Engineer (R&D)**  
+Kamal-Paterson Ltd, Dhaka  
 *Dec 2025 – Present*
 
-- Design and deploy AI systems for real-world environments across multiple platforms  
-- Focus on system reliability, performance, and scalability  
-- Translate evolving AI capabilities into usable, production-ready solutions  
+- Working on AI-driven solutions in real-world scenarios  
+- Contributing to building and improving ML/LLM-based systems  
+- Learning and applying concepts around **deployment and system behavior**  
 
 ---
 
-## Focus
+## Projects
 
-- Building AI systems that work beyond demos  
-- Solving practical problems with intelligent systems  
-- Creating scalable architectures for AI applications  
-- Bridging research and engineering in production environments  
+> Focused on building and experimenting with real AI applications
+
+- Applications using **LLMs for structured outputs and workflows**  
+- Systems that connect **user input → intelligent responses → usable results**  
+- Ongoing work around improving **reliability and usability of AI outputs**  
 
 ---
 
-## Strengths
+## Approach
 
-- Strong understanding of AI system design at scale  
-- Ability to convert concepts into working, reliable systems  
-- Experience with real-world constraints and deployment challenges  
-- Balanced mindset across AI, engineering, and product thinking  
+- Build first, improve continuously  
+- Focus on **usable systems over experiments**  
+- Learn by working on **real problems**  
 
 ---
 
@@ -78,10 +70,9 @@ My approach is grounded in system thinking, applied problem-solving, and clean a
 
 - Email: **skroushankhalid.17@gmail.com**  
 - LinkedIn: https://linkedin.com/in/sk-roushan-khalid  
-- Twitter: https://twitter.com/roushan_khalid  
 
 ---
 
 <p align="center">
-  <i>Focused on building AI systems that are practical, scalable, and impactful.</i>
+  <i>AI/ML Engineer focused on building systems that work beyond demos.</i>
 </p>
