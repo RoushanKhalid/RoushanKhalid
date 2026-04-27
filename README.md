@@ -74,5 +74,5 @@ Kamal-Paterson Ltd, Dhaka
 ---
 
 <p align="center">
-  <i>AI/ML Engineer focused on building systems that work beyond demos.</i>
+  <i>AI/ML Engineer | Learning by building systems that solve real problems. </i>
 </p>
