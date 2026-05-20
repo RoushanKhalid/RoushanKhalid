@@ -2,7 +2,7 @@
 
 # Sk. Roushan Khalid
 
-### AI/ML Engineer • Applied AI Systems • Backend-Oriented AI Engineer
+### AI/ML Engineer • Applied AI Systems • LLM Engineering • Backend Architecture
 
 Building applied AI systems that connect machine learning models with real-world software systems, focusing on backend engineering, intelligent workflows, and production-oriented AI applications.
 
