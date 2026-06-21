@@ -4,7 +4,7 @@
 
 **AI/ML Engineer · LLM Systems · RAG Pipelines · FastAPI Backend**
 
-*Building production AI systems that ship — not just notebooks that demo*
+*Building AI systems that move from prototype to production*
 
 [skroushankhalid.17@gmail.com](mailto:skroushankhalid.17@gmail.com) · [LinkedIn](https://linkedin.com/in/sk-roushan-khalid) · [GitHub](https://github.com/RoushanKhalid)
 
