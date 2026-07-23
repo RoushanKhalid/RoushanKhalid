@@ -1,8 +1,8 @@
 <div align="center">
 
-# Sk. Roushan Khalid
+## Sk. Roushan Khalid
 
-#### AI/ML Engineer | AI-First Software Engineer
+### AI/ML Engineer | AI-First Software Engineer
 
 Building intelligent software.
 
@@ -18,7 +18,7 @@ Building intelligent software.
 
 <div align="center">
 
-## About
+### About
 
 I'm interested in building AI systems that solve real problems.
 
@@ -27,20 +27,29 @@ My work today focuses on AI applications and backend services. Alongside that, I
 </div>
 
 ---
-
-## Building
+<div align="center">
+  
+### Building
 
 AI applications, LLM-powered systems, AI agents, and backend services.
 
-## Exploring
+</div>
+
+<div align="center">
+  
+### Exploring
 
 Go, distributed systems, cloud computing, and system design.
 
+</div>
 
-## Interested In
+<div align="center">
+  
+### Interested In
 
 AI systems, software engineering, backend architecture, and cloud infrastructure.
 
+</div>
 
 <div align="center">
 
