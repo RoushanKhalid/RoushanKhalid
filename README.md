@@ -2,72 +2,44 @@
 
 ## Sk. Roushan Khalid
 
-### AI/ML Engineer | AI-First Software Engineer
+Software Developer | AI/ML & Backend
 
-Building intelligent software.
-
-<p>
-<a href="https://linkedin.com/in/sk-roushan-khalid">LinkedIn</a> •
-<a href="https://github.com/RoushanKhalid">GitHub</a> •
-<a href="mailto:skroushankhalid.17@gmail.com">Email</a>
-</p>
+<a href="https://linkedin.com/in/sk-roushan-khalid">LinkedIn</a> • <a href="mailto:skroushankhalid.17@gmail.com">Email</a>
 
 </div>
 
 ---
 
-<div align="center">
+### About My Work
 
-### About
+My initial dive into software engineering started with competitive programming, but I eventually realized that solving isolated algorithmic puzzles wasn't my strongest suit. I pivoted to AI/ML and found what actually clicks for me: building practical, intelligent applications. 
 
-I'm interested in building AI systems that solve real problems.
+Today, my GitHub is focused on the intersection of AI and software engineering. I am less interested in just training models in Jupyter notebooks, and more interested in figuring out how to serve them, wrap them in clean APIs, and build the backend infrastructure to make them usable.
 
-My work today focuses on AI applications and backend services. Alongside that, I'm continuously exploring software engineering, distributed systems, and cloud infrastructure to better understand how modern software is designed, deployed, and operated.
+### Current Focus
 
-</div>
+I am currently working as a trainee, heavily focused on applied Generative AI and backend development. Right now, my commits usually involve:
 
----
-<div align="center">
-  
-### Building
+*   **Applied AI:** Building RAG pipelines, multi-agent systems, and OCR pipelines using tools like LangChain, CrewAI, and PyTorch.
+*   **Backend Integration:** Writing Python microservices (FastAPI / Flask) to connect AI models to web and mobile frontends.
+*   **Databases & Deployment:** Managing data with PostgreSQL and Vector DBs, and using Docker to keep my environments clean and deployable.
 
-AI applications, LLM-powered systems, AI agents, and backend services.
+### What I'm Learning Next
 
-</div>
-
-<div align="center">
-  
-### Exploring
-
-Go, distributed systems, cloud computing, and system design.
-
-</div>
-
-<div align="center">
-  
-### Interested In
-
-AI systems, software engineering, backend architecture, and cloud infrastructure.
-
-</div>
-
-<div align="center">
-
-### Technology
-
-`Python` • `Go` • `SQL` • `C/C++`
-
-`PyTorch` • `Transformers` • `LangChain` • `LangGraph` • `CrewAI`
-
-`FastAPI` • `Flask` • `PostgreSQL` • `MySQL`
-
-`Docker` • `Git` • `MLflow`
-
-</div>
+To become a better backend engineer and move beyond just Python scripts, I am actively exploring:
+*   **Golang:** Learning Go to build lighter, faster, and more concurrent backend services.
+*   **System Design:** Studying how larger distributed systems and cloud infrastructures are put together.
 
 ---
 
 <div align="center">
+
+**Languages & Tools** <br>
+`Python` • `C/C++` • `Go` (Learning) <br>
+`FastAPI` • `Docker` • `PostgreSQL` • `Git` <br>
+`LangChain` • `PyTorch` • `Transformers`
+
+<br>
 
 > *Building software where AI is one part of a larger system.*
 
