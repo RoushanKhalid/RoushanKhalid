@@ -2,9 +2,9 @@
 
 # Sk. Roushan Khalid
 
-### AI Engineer · AI Systems · Full-Stack Engineering
+### AI Engineer · AI Systems · Full-Stack Engineering · Product
 
-Building and working with **AI-powered software systems**, with an interest in the engineering layers behind them.
+Building AI-powered software with an interest in **systems, products, and the problems they solve.**
 
 <a href="https://linkedin.com/in/sk-roushan-khalid">LinkedIn</a> • <a href="mailto:skroushankhalid.17@gmail.com">Email</a>
 
@@ -16,11 +16,11 @@ Building and working with **AI-powered software systems**, with an interest in t
 
 I am an **AI Engineer** working across AI development, backend engineering, and full-stack systems.
 
-My experience includes projects across **government, organizations, and independent ventures**, with work ranging from data and machine learning to AI-powered applications and production-oriented software systems.
+My experience includes projects across **government, organizations, and independent ventures**, with work spanning data, machine learning, language, computer vision, and AI-powered applications.
 
-I enjoy working across the stack—from developing AI capabilities and backend services to integrating them into complete applications and deployment environments.
+I enjoy working across the stack—from developing AI capabilities and backend services to integrating them into complete software systems and deployment environments.
 
-I am also interested in the intersection of **AI, product, and business**, and in understanding how technical ideas can be shaped into useful products and solutions.
+Alongside engineering, I have a strong interest in **product development and the business side of AI**. I enjoy exploring ideas, identifying where technology can solve meaningful problems, and thinking about how an AI capability can evolve into a useful product.
 
 ---
 
@@ -31,7 +31,7 @@ I am also interested in the intersection of **AI, product, and business**, and i
 * **Backend Engineering** — Python, FastAPI, Flask, APIs, microservices
 * **Full-Stack Systems** — AI-powered applications and service integration
 * **Data & Infrastructure** — PostgreSQL, vector databases, Docker, Linux, deployment
-* **Product** — AI product development, product thinking, and business applications of AI
+* **Product** — Product ideation, AI-native applications, business use cases, and early-stage product development
 
 ---
 
@@ -51,7 +51,7 @@ I am currently working through:
 
 The aim is to develop a practical understanding of the stack from **fundamental computation to production AI systems**.
 
-```text
+```text id="m0q8xe"
 AI Applications
        ↓
 Models & Algorithms
@@ -71,11 +71,13 @@ Hardware
 
 ## Product & Business
 
-Alongside engineering, I am interested in how AI translates into **products and business value**.
+I am particularly interested in the space where **technical capability meets product opportunity**.
 
-I am exploring product development, AI-native opportunities, and strategic thinking while gradually working on ideas of my own.
+I like exploring problems from both sides: understanding the engineering required to build a solution and considering whether the solution has a meaningful use case.
 
-This includes understanding not only what can be built, but also **why it should be built, who it serves, and how it can create value**.
+I am gradually working on ideas of my own while developing a better understanding of **product strategy, business models, user needs, and execution**.
+
+My interest is not limited to building AI for its own sake, but in finding where it can provide **real and sustainable value**.
 
 ---
 
