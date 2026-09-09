@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## About
 
@@ -16,7 +15,7 @@ Software Engineer with experience across **AI/ML, software systems, and product 
 
 Experience building **machine learning systems, AI applications, backend services, and full-stack products**.
 
----
+
 
 ## Currently Learning
 
@@ -27,13 +26,13 @@ Experience building **machine learning systems, AI applications, backend service
 | **AI Systems**    | Transformers · LLM inference · Attention · KV cache · Model serving |
 | **Systems**       | Distributed systems · Performance · Infrastructure                  |
 
----
+
 
 ## Areas
 
 **AI/ML** · **Systems** · **Distributed Computing** · **Software Engineering**
 
----
+
 
 <div align="center">
 
